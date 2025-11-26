@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbb65b83efe891e42b6f28c1c16d9b5e, type: 3}
+  m_Name: Hungry
+  m_EditorClassIdentifier: 
+  dialogueStrings:
+  - Hi Kalebo, hows been your morning
+  - It was fine teacher. How was yours
+  - it was fine. I've been noticing
+  - 'recently you havent been looking like yourself recently '
+  - Are you OK?
+  - 'Yes, teacher, ive just been tired recently '
+  - Oh Ok, just dont push yourself too hard
+  - Kalebo sits down and Continues the day
+  - THe school day ends and its time to go home
+  - THe school day ends and its time to go home
+  dialogueNameStrings:
+  - Teacher
+  - Kabelo
+  - Teacher
+  - Teacher
+  - Teacher
+  - Kabelo
+  - Teacher
+  - Narrator
+  - Narrator
+  - Narrator
+  dialogueImages:
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 310f069b64e45074cac12492cd6d1163, type: 3}
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 310f069b64e45074cac12492cd6d1163, type: 3}
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 637d4c63ca933d943ad746e79d7f6f08, type: 3}
+  - {fileID: 2800000, guid: 637d4c63ca933d943ad746e79d7f6f08, type: 3}
+  - {fileID: 2800000, guid: 637d4c63ca933d943ad746e79d7f6f08, type: 3}

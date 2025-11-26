@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbb65b83efe891e42b6f28c1c16d9b5e, type: 3}
+  m_Name: Starving
+  m_EditorClassIdentifier: 
+  dialogueStrings:
+  - Kalebo! Are you ok?
+  - you look horrible
+  - arrrhhhggg
+  - NO, NO, NO!
+  - You cant be in school in your condition!
+  - let me take you home.
+  - arrrhhhggg
+  - Sorry class I'll be back soon.
+  - The teacher takes Kalebo home
+  - 'Sadly no ones there so the teacher calls his grandmother and leaves him there '
+  - 'Sadly no ones there so the teacher calls his grandmother and leaves him there '
+  dialogueNameStrings:
+  - Teacher
+  - Teacher
+  - Kalebo
+  - Teacher
+  - Teacher
+  - Teacher
+  - Kalebo
+  - Teacher
+  - Narrator
+  - Narrator
+  - Narrator
+  dialogueImages:
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 310f069b64e45074cac12492cd6d1163, type: 3}
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 310f069b64e45074cac12492cd6d1163, type: 3}
+  - {fileID: 2800000, guid: 0fde18135b43bd84082874273ca32e2a, type: 3}
+  - {fileID: 2800000, guid: 637d4c63ca933d943ad746e79d7f6f08, type: 3}
+  - {fileID: 2800000, guid: 637d4c63ca933d943ad746e79d7f6f08, type: 3}
+  - {fileID: 2800000, guid: 637d4c63ca933d943ad746e79d7f6f08, type: 3}

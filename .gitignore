@@ -1,0 +1,9 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+Packages/com.unity.collab-proxy/
